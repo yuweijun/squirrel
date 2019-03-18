@@ -1,0 +1,5 @@
+# default.custom.yaml
+# encoding: utf-8
+patch:
+  schema_list:
+    - schema: wubi86

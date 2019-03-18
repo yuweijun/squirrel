@@ -1,0 +1,5 @@
+# wubi86.custom.yaml
+# encoding: utf-8
+#
+patch:
+  translator/enable_user_dict: false
