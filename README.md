@@ -1,6 +1,7 @@
 ## 五笔输入法鼠须管 0.9.26.2 版本配置
 
 ```bash
+$ cd ~/Library/Rime
 $ vi default.custom.yaml
 
 # default.custom.yaml
