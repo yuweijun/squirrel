@@ -1,0 +1,6 @@
+# wubi86_jidian.custom.yaml
+# encoding: utf-8
+
+patch:
+  speller/auto_select: false
+  speller/auto_select_unique_candidate: false
